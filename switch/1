@@ -1,0 +1,33 @@
+❯ go build example.go
+❯ ./example
+i is 2
+It's a weekday.
+Good evening!
+❯ go build example
+package example is not in std (/opt/homebrew/Cellar/go/1.23.2/libexec/src/example)
+❯ go build example.go
+❯ ./example
+i is 2
+It's a weekday.
+Good evening!%                                                                                                                                                                      
+❯ go build example.go
+❯ ./example
+i is 2
+It's a weekday.
+Good evening!
+I'm a bool
+I'm an int
+Don't know type string
+
+░▒▓    ~/learninggo/switch ▓▒░                                                                                                                            ░▒▓ ✔  23:22:25  ▓▒░
+
+
+
+
+
+
+
+
+
+
+
